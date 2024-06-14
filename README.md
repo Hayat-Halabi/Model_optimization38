@@ -35,9 +35,9 @@ Utilize the plot_history function to visually compare the training history (accu
 
 Evaluate the ultimate models on the test data and record the test loss and accuracy for both Adagrad and SGD.
 
-### Display the final test accuracy for both the Adagrad and SGD models.
+Display the final test accuracy for both the Adagrad and SGD models.
 
 ### Load and Prepare MNIST Dataset with TensorFlow
-### Import the TensorFlow library and necessary modules.
-### Import necessary components from the TensorFlow.keras module.
-### Import the MNIST dataset from the TensorFlow.keras.datasets module.
+-  Import the TensorFlow library and necessary modules.
+- Import necessary components from the TensorFlow.keras module.
+- Import the MNIST dataset from the TensorFlow.keras.datasets module.
